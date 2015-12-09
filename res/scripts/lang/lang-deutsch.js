@@ -7,7 +7,7 @@ $.lang.data["net.phantombot.lang.curlang"] = "Die aktuelle Sprache ist $1!";
 //common
 $.lang.data["net.phantombot.common.enabled"] = "aktiviert";
 $.lang.data["net.phantombot.common.disabled"] = "deaktiviert";
-$.lang.data["net.phantombot.common.err-user"] = "You must specify a user to target with this command";
+$.lang.data["net.phantombot.common.err-user"] = "Du musst einen Benutzer angeben um diesen Befehl auszuführen.";
 
 //command perm/price
 $.lang.data["net.phantombot.cmd.noperm"] = "Your user group, $1, does not have permission to use the command $2.";
